@@ -22,7 +22,12 @@ header {
   align-items: center;
 }
 .logo .titleLogo h2 {
+  /* text-decoration: none; */
   margin-left: 10px;
+}
+.logo .titleLogo h2 a {
+  color: white;
+  text-decoration: none;
 }
 .logo .titleLogo img {
   width: 100px;
@@ -43,7 +48,13 @@ header {
 }
 
 .menu ul li {
-  margin-left: 20px;
+  margin-left: 30px;
+}
+.menu ul li a:hover {
+  color: #dc9f6d;
+}
+.sns ul li a:hover {
+  color: #dc9f6d;
 }
 .menu ul li a {
   color: white;
