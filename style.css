@@ -99,13 +99,15 @@ header {
     margin: 10px 0px;
   }
   .menu ul li:hover {
-    /* border: 1px solid white; */
     background-color: #dc9f6d;
     text-align: center;
     align-items: center;
     width: 95vw;
     height: 30px;
     border-radius: 5px;
+  }
+  .menu ul li a:hover {
+    color: white;
   }
   .sns ul {
     padding: 0;
