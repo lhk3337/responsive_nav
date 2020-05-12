@@ -29,7 +29,6 @@ header {
   height: 60px;
 }
 .logo .bars {
-  /* margin-left: 100px; */
   display: none;
   cursor: pointer;
 }
