@@ -30,6 +30,7 @@ header {
 }
 .logo .bars {
   display: none;
+  color: #dc9f6d;
   cursor: pointer;
 }
 
