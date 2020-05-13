@@ -74,7 +74,7 @@ header {
   color: white;
 }
 
-@media (max-width: 870px) {
+@media (max-width: 920px) {
   header {
     display: flex;
     flex-direction: column;
